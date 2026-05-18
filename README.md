@@ -3,3 +3,4 @@
 <h1>hello there...</h1>
 <h1>I'm ROHIT KUMAR</h1>
 <p>BTech CSE student</p>
+<p>And a <span classname="text-bold">Fullstach developer</span></p>
