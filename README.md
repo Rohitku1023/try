@@ -1,4 +1,4 @@
-<h1>This is only for practice purpose.</h1>
+<h1>This is only for README practice purpose.</h1>
 <p>we can try different things here</p>
 <h1>hello there...</h1>
 <h1>I'm ROHIT KUMAR</h1>
